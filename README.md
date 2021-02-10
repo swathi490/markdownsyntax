@@ -53,5 +53,9 @@ btech
          printf("hello world")
      ```
      ## links
-     [google](https://www.google.com/)
+     [google](https://www.google)
     
+    ## add gmail link
+    [gmail](https://www.gmail.com/)
+    ## add college website link
+    [website](https://www.kits.com/)
