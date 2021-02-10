@@ -100,5 +100,5 @@ btech
 ![]()
 
 ## inserting vedios
-[![image](https://www.youtube.com/vi/fRD_3vJagxk/0.jpg)](https://www.youtube.com/watch?v=fRD_3vJagxk)
+[![vedio](https://www.youtube.com/vi/fRD_3vJagxk/0.jpg)](https://www.youtube.com/watch?v=fRD_3vJagxk)
 
