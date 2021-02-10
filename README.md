@@ -74,7 +74,7 @@ btech
       -remotename along with repository link
     - git clone "repo url"
       -copy the repository links into local system
-    - git remote and add remotenme "repolink"
+    - git remote  add remotenme "repolink"
       -creates a remote with past remote name
     - git log
       -commited history
