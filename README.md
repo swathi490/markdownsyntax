@@ -96,3 +96,8 @@ btech
     - git pull remotename branchname 
       -to receive github files from repository to local system
       -
+## inserting images 
+![]()
+
+## inserting vedios
+[![image](https://www.youtube.com/watch?v=fRD_3vJagxk)]
