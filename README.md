@@ -66,7 +66,7 @@ btech
        -current status
     - git brnch
       -current working branch
-    - git and filename
+    - git add filename
       -add the files into staging area
     - git remote
       -current remotes in our repository
