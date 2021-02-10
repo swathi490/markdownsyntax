@@ -59,3 +59,40 @@ btech
     [gmail](https://www.gmail.com/)
     ## add college website link
     [website](https://www.kits.com/)
+    ## git commands
+    - git init
+      -initiatialising
+    - git status
+       -current status
+    - git brnch
+      -current working branch
+    - git and filename
+      -add the files into staging area
+    - git remote
+      -current remotes in our repository
+    - git remote -v
+      -remotename along with repository link
+    - git clone "repo url"
+      -copy the repository links into local system
+    - git remote and add remotenme "repolink"
+      -creates a remote with past remote name
+    - git log
+      -commited history
+    - git log --oneline
+      -commited history in single line
+    - git revert filename
+      -undo the changes
+    - git reset filename
+      -file references
+    - git rm filename
+      -removes the file name
+    - git config user.name "username"
+      -to setn our user name 
+    - git config user.email "user email"
+    - git commit -m "messege"
+      -to commit our changes along with messeges
+    - git push remotename branchname
+      -to push our files from local systems to github server
+    - git pull remotename branchname 
+      -to receive github files from repository to local system
+      -
