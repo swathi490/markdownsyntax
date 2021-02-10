@@ -47,4 +47,9 @@ btech
     `
     fun()
     `
+    ## task
+    ```
+     void main()
+         printf("hello world")
+     ```
     
